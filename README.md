@@ -3,10 +3,10 @@
 I'm a passionate developer with interests in **computer vision**, **AI deployment**, and **full-stack web development**.
 
 ### 💼 About Me
-- 🔭 I’m currently working on: Intelligent livestock weight estimation from RGB-D video 📹🐄
+- 🔭 I’m currently working on: Intelligent livestock weight estimation 📹🐄
 - 🌱 I’m learning: CUDA, TensorRT, and multi-GPU training with PyTorch DDP 🚀
 - 💬 Ask me about: Deep learning, PyTorch, Spring Boot, Vue3
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [Blog](https://yourblog.com) | [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 How to reach me: [Email](mailto:1137800445@qq.com) 
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhemu6&count_private=true&theme=blueberry&show_icons=true)
