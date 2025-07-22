@@ -20,10 +20,11 @@ I'm a passionate developer with interests in **computer vision**, **AI deploymen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
-
 ### 🐍 GitHub Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/zhemu6/zhemu6/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/zhemu6/zhemu6/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/zhemu6/zhemu6/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 <!-- Footer -->
 ⭐️ From [zhemu6](https://github.com/zhemu6)
