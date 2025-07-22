@@ -21,8 +21,9 @@ I'm a passionate developer with interests in **computer vision**, **AI deploymen
 
 ---
 
-<!-- Optionally add a snake game contribution graph -->
-![Contribution Snake](https://github.com/zhemu6/zhemu6/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/zhemu6/zhemu6/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 ⭐️ From [zhemu6](https://github.com/zhemu6)
