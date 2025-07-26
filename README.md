@@ -3,7 +3,8 @@
 # 👋 Hi, I'm Shihao Lu
 ### 🚀 Computer Vision · AI Deployment · Full-Stack Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E4%B8%93%E6%B3%A8%E4%BA%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BC%80%E5%8F%91;%E7%83%AD%E7%88%B1AI%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%96%B0;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Focus+on+Computer+Vision+Development;Passionate+about+AI+Technology+%26+Innovation;Full-Stack+Developer" alt="Typing SVG" />
+</div>
 
 </div>
 
