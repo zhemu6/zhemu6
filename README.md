@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin: 20px; padding: 15px; border-radius: 10px;">
 
 - 🔭 **Current Project**: `Intelligent Livestock Weight Estimation System` 📹🐄
-- 🌱 **Currently Learning**: `CUDA Optimization`, `TensorRT Deployment`, `PyTorch Distributed Training`
+- 🌱 **Currently Learning**: `Spring AI Development`, `Ascend Migration & Deployment Optimization`
 - 💡 **Technical Expertise**: `Deep Learning`, `Computer Vision`, `Backend Development`, `Frontend Frameworks`
 - 💬 **Ask me about**: `Deep Learning`, `PyTorch`, `Spring Boot`, `Vue3`
 - 📫 **Contact me**: [📧 Email](mailto:1137800445@qq.com)
@@ -129,8 +129,15 @@
 
 <div align="center">
   
+### 🚀 Open Source Projects
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhemu6&repo=ai-code&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/zhemu6/ai-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhemu6&repo=Sky&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/zhemu6/Sky)
+
+### 🌐 My Website
+
+[![Website](https://img.shields.io/badge/Website-IPCL.TOP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.ipcl.top/index)
+
 
 </div>
 
@@ -141,6 +148,7 @@
 ### 💫 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tefuir1070@gmail.com)
+[![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](mailto:1137800445@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhemu6)
 
 ---
