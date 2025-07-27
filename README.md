@@ -12,7 +12,8 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin: 20px; padding: 15px; border-radius: 10px;">
+
+<img align="right" alt="Coding" width="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR6a3FvNHBpeGt0ZWJ6YmMwYWk3dzNkZTI4c296OWM0NjdndTZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" style="margin: 10px; padding: 10px; border-radius: 10px;">
 
 - 🔭 **Current Project**: `Intelligent Livestock Weight Estimation System` 📹🐄
 - 🌱 **Currently Learning**: `Spring AI Development`, `Ascend Migration & Deployment Optimization`
