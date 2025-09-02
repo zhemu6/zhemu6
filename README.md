@@ -136,9 +136,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhemu6&repo=ai-code&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/zhemu6/ai-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhemu6&repo=Sky&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/zhemu6/Sky)
 
-### 🌐 My Website
+### 🌐 My Websites
 
-[![Website](https://img.shields.io/badge/Website-IPCL.TOP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.ipcl.top/index)
+<a href="http://www.ipcl.top/index">
+  <img src="https://img.shields.io/badge/IPCL.TOP-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="http://8.140.228.255:88/">
+  <img src="https://img.shields.io/badge/云摄-Photography-orange?style=for-the-badge&logo=google-photos&logoColor=white" />
+</a>
 
 
 </div>
