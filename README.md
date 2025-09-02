@@ -72,9 +72,9 @@
 <div align="center">
 <!--这是一个注释，注释在浏览器中不会显示-->
 
-<!--<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=zhemu6&count_private=true&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" /> -->
+<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=zhemu6&count_private=true&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zhemu6&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+<!--<img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zhemu6&theme=blueberry&hide_border=true" alt="GitHub Streak" /> -->
 
 <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhemu6&layout=compact&langs_count=8&theme=blueberry&hide_border=true" alt="Top Languages" />
 
